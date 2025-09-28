@@ -1,8 +1,6 @@
 🎰 Virtual Casino - Play for Fun!
 A complete virtual casino website with 8 popular casino games, all using virtual currency with no real money involved. Perfect for entertainment and learning casino games!
 
-https://img.shields.io/badge/Virtual-Casino-brightgreen https://img.shields.io/badge/No-Real_Money-red https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black
-
 🎮 Featured Games
 1. Slot Machine 🎰
 Classic 3-reel slot machine
